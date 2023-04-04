@@ -1,4 +1,4 @@
-# Mediablend
+<h1 align="center">Mediablend</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/atharvashukla/mediablend/main/mediablend_logo.svg" />
