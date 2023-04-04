@@ -1,5 +1,10 @@
 # Mediablend
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atharvashukla/mediablend/main/mediablend_logo.svg" />
+</p>
+
+
 Mediablend: A command-line tool to seamlessly combine slide images, audio, and transition timestamps into an engaging video presentation.
 
 ## Overview
